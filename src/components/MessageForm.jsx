@@ -1,4 +1,4 @@
 const MessageForm = () => {
-  return <div>Message Form</div>;
+  return <div>MessageForm</div>;
 };
 export default MessageForm;
